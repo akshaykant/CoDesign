@@ -3,7 +3,7 @@ With the new grabhouse secure, it has never been easier and safer to allow tenan
 
 Introducing the grabhouse secure with nfc locks, which allows you the handover the keys to a house hunter on the go. 
 
-#How is works?
+#How it works?
 
 Buyer Prospective : 
  -If a buyer is interested in your property, he simply requests for the key. 
