@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\akant\Desktop\DEXGUARD\DexGuard-7.0.22-Enterprise\DexGuard-7.0.22\samples\basic\GrabHouseSecure\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\akant\Desktop\DEXGUARD\DexGuard-7.0.22-Enterprise\DexGuard-7.0.22\samples\basic\GrabHouseSecure\app\build\intermediates\pre-dexed\debug\classes-07fde7210473c403d3239e5a1185aa6359db7504.jar" />
+    </item>
+    <item
+        jar="C:\Users\akant\Desktop\DEXGUARD\DexGuard-7.0.22-Enterprise\DexGuard-7.0.22\samples\basic\GrabHouseSecure\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\akant\Desktop\DEXGUARD\DexGuard-7.0.22-Enterprise\DexGuard-7.0.22\samples\basic\GrabHouseSecure\app\build\intermediates\pre-dexed\debug\classes-be8ca64db12074680ac332491c808cb26766f80e.jar" />
+    </item>
+    <item
+        jar="C:\Users\akant\Desktop\DEXGUARD\DexGuard-7.0.22-Enterprise\DexGuard-7.0.22\samples\basic\GrabHouseSecure\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\akant\Desktop\DEXGUARD\DexGuard-7.0.22-Enterprise\DexGuard-7.0.22\samples\basic\GrabHouseSecure\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-78e7799ad4d38d5a7e02d440937befd340699bc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\akant\android-sdks\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\akant\Desktop\DEXGUARD\DexGuard-7.0.22-Enterprise\DexGuard-7.0.22\samples\basic\GrabHouseSecure\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-232a5c65b034096329d875ee2ee6246441a59962.jar" />
+    </item>
+
+</items>

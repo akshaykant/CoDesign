@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GrabHouseSecure</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">LOGIN</string>
+    <string name="splashLogin">Login/Signup For A Secure Grab House Experience</string>
+    <string name="signup">SIGNUP</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_seller_landing">SellerLandingActivity</string>
+    <string name="title_activity_buyer_landing">BuyerLandingActivity</string>
+    <string name="user_id_description">User ID</string>
+    <string name="password_description">Password</string>
+    <string name="userId">User ID cannot be empty</string>
+    <string name="pwdEmpty">Password cannot be empty</string>
+    <string name="Invalid">Invalid Credentials</string>
+    <string name="myproperty">My Properties</string>
+    <string name="Keys">Keys</string>
+    <string name="title_activity_property_landing">PropertyLanding</string>
+    <string name="title_activity_key_landing">KeyLandingActivity</string>
+    <string name="myproperty1">(Need Key)Kormangala-Flat</string>
+    <string name="myproperty2">(Need Key)ITPL-Cocoon</string>
+    <string name="logout">Logout Successful!</string>
+    <string name="access">Access Granted. Visit the facility and access using NFC</string>
+    <string name="key1">(Key)Kormangala-Flat</string>
+    <string name="NFCEnabled">Enable NFC?</string>
+    <string name="enableNFC">Enable NFC</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="authen">Successfully Authenticated</string>
+    <string name="authenticate">Authenticate</string>
+</resources>
